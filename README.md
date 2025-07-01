@@ -31,15 +31,17 @@ Analyze monthly sales trends and regional performance to identify key products, 
 - To analyze employee demographics and salary distribution across departments for better HR planning, diversity tracking, and compensation analysis.
 
 *🗂 Files Included:*
-- Customer_Segmentation_Dashboard.pbix – Segmentation dashboard in Power BI  
-- Customer_Segmentation_Report.pptx – Report explaining logic & insights  
-- Customer_Segmentation_Dataset.xlsx – Raw dataset of customer transactions  
+-Employee_Demographic_Dashboard.pbix – Power BI dashboard file
+-Employee_Demographic_Insights_Report.pptx – Summary presentation 
+-employee_demographics.xlsx – Raw employee dataset
 
 *📌 Key Insights:*
-- Segmentation of customers into Loyal, At Risk, Potential, and Lost  
-- Insights into purchase frequency and average spend  
-- Targeted strategy suggestions for each segment  
-- Use of slicers for dynamic filtering based on segment or region  
+-Female employees make up ~59% of the workforce
+-Sales department has the highest number of employees
+-Marketing department offers the highest average salary
+-Majority of employees fall in the 26–45 age group
+
+
 
 ---
 

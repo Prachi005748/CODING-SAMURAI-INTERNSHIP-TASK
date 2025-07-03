@@ -13,9 +13,9 @@ This repository contains two hands-on projects focused on building insightful da
 Analyze monthly sales trends and regional performance to identify key products, revenue growth opportunities, and seasonal demand shifts.
 
 *🗂 Files Included:*
-- Employee_Demographic_Dashboard.pbix  
-- Employee_Demographic_Insights_Report.pptx 
-- employee_demographics.xlsx`
+- Sales_Data_2024.xlsx – Raw sales dataset
+- Sale metric dashboard.pbix – Power BI dashboard file
+-  Sales_Metric_Dashboard_Analysis_Report.pptx – Project report with EDA and insights
 
 *📌 Key Insights:*
 - Highest revenue-generating regions & product categories  

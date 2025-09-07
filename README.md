@@ -61,7 +61,8 @@ This internship at *Coding Samurai* helped me gain practical exposure to analyzi
 ## 📫 Contact
 
 *Prachi Paliwal*  
-GitHub: [@Prachi005748](https://github.com/Prachi005748)  
+*Gmail*: prachipaliwal745@gmail.com 
+*GitHub*: [@Prachi005748](https://github.com/Prachi005748)  
 ---
 
 ⭐ *Thank you for checking out my projects. Feel free to explore the dashboards!*
